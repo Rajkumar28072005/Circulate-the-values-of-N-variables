@@ -33,4 +33,5 @@ n=int(input())
 ![Screenshot 2023-11-29 092249](https://github.com/Rajkumar28072005/Circulate-the-values-of-N-variables/assets/144980101/2e73026c-d806-4b84-8c05-ef69ad57628d)
 
 
-## Result:
+## RESULT:
+ Thus the  n variable is circulated
